@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Features testing]">
+  <test name="Feature Testing(failed)">
+    <classes>
+      <class name="TestCases.QuickLookOverlay">
+        <methods>
+          <include name="homePage"/>
+        </methods>
+      </class> <!-- TestCases.QuickLookOverlay -->
+    </classes>
+  </test> <!-- Feature Testing(failed) -->
+</suite> <!-- Failed suite [Automation Features testing] -->

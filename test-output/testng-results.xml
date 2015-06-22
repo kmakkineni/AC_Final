@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20885" started-at="2015-06-22T12:21:44Z" finished-at="2015-06-22T12:22:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20885" started-at="2015-06-22T12:21:44Z" finished-at="2015-06-22T12:22:05Z">
+      <class name="TestCases.QuickLookOverlay">
+        <test-method status="PASS" signature="homePage()[pri:0, instance:TestCases.QuickLookOverlay@3d533528]" name="homePage" duration-ms="20855" started-at="2015-06-22T05:21:44Z" finished-at="2015-06-22T05:22:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+      </class> <!-- TestCases.QuickLookOverlay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
